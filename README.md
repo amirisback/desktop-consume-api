@@ -1,6 +1,4 @@
 ## Sample Frogo Consume Api
-
-## Screen Shot
 ![Screenshot](docs/image/ss.png)
 
 ## Colaborator
