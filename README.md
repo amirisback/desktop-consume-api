@@ -1,6 +1,7 @@
 ## Sample Frogo Consume Api
 
 ## Screen Shot
+![Screenshot](docs/image/ss.png)
 
 ## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
